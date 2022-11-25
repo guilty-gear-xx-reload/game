@@ -1,0 +1,14 @@
+readSetting ok!!
+WSAStartup ok
+udp socket() ok
+udp bind() ok
+udp ioctlsocket(FIONBIO) ok
+recv thread ok
+lobby thread ok
+netMgr init ok!!
+nodeMgr init ok!!
+read palette ok!!
+dll load ok!!
+recv thread end.
+lobby thread end.
+ggn terminated!!

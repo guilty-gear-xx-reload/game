@@ -1,0 +1,56 @@
+*****************************************
+*****************************************
+***** _____  ______          _____  *****
+*****|  __ \|  ____|   /\   |  __ \ *****
+*****| |__) | |__     /  \  | |  | |*****
+*****|  _  /|  __|   / /\ \ | |  | |*****
+*****| | \ \| |____ / ____ \| |__| |*****
+*****|_|  \_\______/_/    \_\_____/ *****
+*****vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv*****							
+*****************************************
+**** APPLYING THIS WILL BREAK PARTS *****
+**** OF THE GAME. PLEASE BACKUP		*****
+****	 YOUR GAME FOLDER!!!		*****
+*****************************************
+*****************************************
+Please read the above.
+
+Thanks for reading the above.
+
+
+1. Extract contents of GGXX Netplay.7z
+
+2. Copy/Move the extracted content to "...\common\Guilty Gear X2 #Reload" and overwrite.
+
+3. Open "\music\" and then "\22k\" - move/copy the content of this folder one directory up, into the "music" folder
+
+4. Run config.exe - configure appropriate game settings (video, sound and input settings)
+
+5. Run ggxnet_config.exe - these settings apply on the netplay. Here you can: 
+	• Set Player Name
+	• Set a personal message
+	• Set server address*
+	• Configure Delay**, Game rounds and Port that the game use for netplay
+	• Enable EX characters (Netplay only)
+	• Create custom color palletes for characters
+	• Some other stuff - have a look
+	* Make sure that "Lobby Script/Text Address" is set to: "guiltygear.wingdreams.net/lobby.cgi" - this is the most common server
+	** You can only connect to players with the same delay setting as yourself. 4 Is the most common. Leave it at 4.
+	
+6. Run ggxx.exe - Will start the japanese version of the game, albeit a bit broken.
+	*MAKING NETPLAY AVAILABLE*
+	•Navigate to "OPTIONS" in the menu
+		• Enter "GAME OPTIONS"
+			• Set "SHORT CUT" to ON
+				• Hit EXIT
+					• SAVE THE GAME (You can toggle Auto-Save on as well, if you want to)
+						• Hit GO BACK
+							• Go back again (press X, or "cross" - whatever you assigned that button do) or Restart the game.
+								• Next time you enter the Main Menu you will have 2 new menu entries, "VS NET" and "Replay"
+								
+7. Rename ggx2.exe to ggx2.old.
+	• Create a copy of ggxx.exe
+		•Rename this copy to ggx2.exe
+	You can now launch the Netplay version from Steam.
+
+Rembember to move contents from "music\22k\" up one directory, or the game will crash due to no music. 44k music will play at half the speed because... reasons...?
